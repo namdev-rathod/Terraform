@@ -1,14 +1,4 @@
-# Terraform Mastery: From Beginner to Expert
-
-
-### Course Outline
-
-
-With 15 years of expertise in infrastructure management and Terraform, here’s a comprehensive course design that covers everything from beginner to advanced levels. This course is designed to provide hands-on experience, real-world scenarios, and best practices for developing scalable infrastructure as code (IaC).
-
----
-
-## 🌍 **Terraform Mastery: From Beginner to Expert**
+## **Terraform Mastery: From Beginner to Expert**
 
 ### **Course Outline**
 
@@ -17,9 +7,10 @@ With 15 years of expertise in infrastructure management and Terraform, here’s 
 ### **Module 1: Introduction to Terraform**
 - **1.1** What is Terraform?
   - IaC concepts and benefits
-  - Comparison with other IaC tools (e.g., CloudFormation, Ansible)
+  - Comparison with other IaC tools (e.g., CloudFormation, CDK)
+  - Architecture Of Terraform
 - **1.2** Installing and Setting Up Terraform
-  - Installing Terraform on Linux, macOS, and Windows
+  - Installing Terraform on Linux and Windows
   - Initializing a Terraform project
 - **1.3** Key Terraform Concepts and Terminology
   - Providers, resources, variables, and state
@@ -99,71 +90,25 @@ With 15 years of expertise in infrastructure management and Terraform, here’s 
 
 ---
 
-### **Module 7: Terraform Certification Prep & Best Practices**
-- **7.1** Best Practices for Writing Clean, Efficient Terraform Code
+### **Module 7: Terraform Imports**
+- **7.1** Terraform Imports Existing Infra Resoures
+	- Imports Existing S3 Buckets, RDS & EC2 Resources
+
+### **Module 8: Terraform Certification Prep & Best Practices**
+- **8.1** Best Practices for Writing Clean, Efficient Terraform Code
   - Organizing code structure, reusability, and scalability considerations
-- **7.2** Review of Terraform Associate Certification
+- **8.2** Review of Terraform Associate Certification
   - Key topics, practice questions, and exam tips
-- **7.3** Real-World Lab: Capstone Project
+- **8.3** Real-World Lab: Capstone Project
   - Design, deploy, and manage a complete infrastructure project that includes multi-cloud resources, secure configurations, and automated CI/CD pipelines
 
+---
 
+### **Module 9: Terraform Troubleshootings**
 
+---
 
+### **Module 10: Terraform Interview Question with Answers**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. Understading Of IaC
-2. Introduction To Terraform
-3. Architecture of Terraform
-4. Installation and Management
-5. Understading Basics Of Terraform
-6. Terraform State & Workspace
-7. AWS Integration With Terraform
-8. Remote S3 Backend
-9. Terraform Imports
-10. Understading of Terraform Modules
-11. Deploy First Sample Infra Using Terraform
-12. Infrastructure Management By Using Terraform
-13. Terraform Integration With CICD
-14. Troubleshootings
-15. Real Time Projects
-16. Interview Question with Answers
 
 
