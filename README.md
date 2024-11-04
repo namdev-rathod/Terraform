@@ -113,10 +113,17 @@
 
 ---
 
+📢 **Subscribe to My YouTube Channel!** 📢 
+If you’re excited about mastering Terraform from beginner to expert, 
+make sure to **hit the Subscribe button**  [@namdev.devops](https://www.youtube.com/@namdev.devops)!
+By subscribing, you’ll get access to the latest tutorials, real-world projects, and deep dives designed to help you master DevOps skills from the ground up. 
+Hit that **Subscribe** button to stay updated and take your expertise to the next level! 🎬👨‍💻
 
-🎉 **Don’t Miss Out!** If you’re excited about mastering Terraform from beginner to expert, 
-make sure to **hit the Subscribe button** on my channel for updates on every new video in the series. 
-Subscribing keeps you connected to all the latest content as it drops, so you won’t miss a thing. 
-Let’s dive into Terraform and take your DevOps skills to the next level! 📈
+
+
+
+
+ 
+
 
 
