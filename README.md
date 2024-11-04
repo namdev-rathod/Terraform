@@ -14,7 +14,7 @@
   - Initializing a Terraform project
 - **1.3** Key Terraform Concepts and Terminology
   - Providers, resources, variables, and state
-- **1.4** Your First Terraform Project
+- **1.4** Deploy First Terraform Project
   - Creating a simple EC2 instance with Terraform
   - Applying, destroying, and managing state
 
