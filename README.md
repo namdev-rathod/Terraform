@@ -13,10 +13,11 @@
   - Installing Terraform on Linux and Windows
   - Initializing a Terraform project
 - **1.3** Key Terraform Concepts and Terminology
-  - Providers, resources, variables, and state
+  - Providers, resources, variables, state & Lifecycle
 - **1.4** Deploy First Terraform Project
   - Creating a simple EC2 instance with Terraform
   - Applying, destroying, and managing state
+  - Terraform Commands
 
 ---
 
